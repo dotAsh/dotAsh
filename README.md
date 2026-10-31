@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Md. Ashik
 
-- 💻 Software Developer | C# | ASP.NET Core
+- 💻 Software engineer | C# | Azure | ASP.NET Core | Agentic development
 - 🎓 B.Sc in CSE
-- 🌱 Currently learning Azure, DevOps & Backend Engineering
+
 
